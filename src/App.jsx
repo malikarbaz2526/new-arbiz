@@ -5,7 +5,7 @@ import "./App.css";
 import "./responsive.css"
 import './meanmenu.min.css'
 
-import Home from "./pages/home/home";
+import Home from "./pages/home/Home.jsx";
 import Header from "./components/header/header";
 import Footer from "./components/footer/footer";
 import Login from "./pages/login/Login";

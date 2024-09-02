@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React, {useEffect} from 'react'
 import HeroBanner from './heroBanner/heroBanner';
 import FoodCategory from './foodCategory/FoodCategory';
 import ProductArea from './productArea/ProductArea';
