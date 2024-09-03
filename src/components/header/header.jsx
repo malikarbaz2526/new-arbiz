@@ -9,7 +9,7 @@ import BanglaFlag from "../../assets/img/icon-img/bl.jpg";
 import ArabicFlag from "../../assets/img/icon-img/ar.jpg";
 import HindiFlag from "../../assets/img/icon-img/in.jpg";
 import SpanishFlag from "../../assets/img/icon-img/sp.jpg";
-import Logo from "../../assets/img/logo/logo-1.jpg";
+import Logo from "../../assets/img/logo/logo-1.png";
 import CartImg1 from "../../assets/img/cart/cart-1.jpg";
 import CartImg2 from "../../assets/img/cart/cart-2.jpg";
 
