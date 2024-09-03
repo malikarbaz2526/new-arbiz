@@ -1,5 +1,9 @@
 import React, {useEffect} from 'react'
+<<<<<<< HEAD
 import HeroBanner from './heroBanner/HeroBanner.jsx';
+=======
+import HeroBanner from './heroBanner/HeroBanner';
+>>>>>>> d30a825f6c34c84280560eaa9860f56356ce9637
 import FoodCategory from './foodCategory/FoodCategory';
 import ProductArea from './productArea/ProductArea';
 import DealArea from './dealArea/DealArea';
