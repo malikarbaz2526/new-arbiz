@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react'
-import HeroBanner from './heroBanner/HeroBanner';
+import HeroBanner from './heroBanner/heroBanner';
 import FoodCategory from './foodCategory/FoodCategory';
 import ProductArea from './productArea/ProductArea';
 import DealArea from './dealArea/DealArea';
